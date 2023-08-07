@@ -18,7 +18,7 @@ A user-friendly Python-based GUI developed to swiftly replace variable values an
 pip3 install customtkinter
 ```
 ## License
-Released under the [MIT lIcense](https://github.com/dhruv-punia/Parametric-Cycloidal-Equations-Generator/blob/main/LICENSE).
+Released under the [MIT License](https://github.com/dhruv-punia/Parametric-Cycloidal-Equations-Generator/blob/main/LICENSE).
 
 ## Authors
 
